@@ -1,5 +1,4 @@
-Algorithm Design and Analysis (COMP611) Assignment 1\
-An application that uses TCP network communication and processes tasks with a custom thread pool.\
+<h2>An application that uses TCP network communication and processes tasks via a custom thread pool.</h2>
 Follows design patterns such as:
 - Observer
 - Template
